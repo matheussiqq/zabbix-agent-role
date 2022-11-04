@@ -1,0 +1,5 @@
+---
+zabbix_release: "6.0"
+zabbix_version: "6.0-4"
+zabbix_server: 192.168.0.150
+...
